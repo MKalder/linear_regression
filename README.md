@@ -11,11 +11,12 @@ To run this code locally, you'll need Python and the following libraries install
 - [NumPy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Seaborn](https://seaborn.pydata.org/)
+- [scikit-learn](https://scikit-learn.org/)
 
 You can install these libraries using pip:
 
 ```bash
-pip install numpy pandas seaborn
+pip install numpy pandas seaborn scikit-learn
 ```
 
 ## Usage
